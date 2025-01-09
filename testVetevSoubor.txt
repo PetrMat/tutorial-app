@@ -2,3 +2,5 @@ udelal jsem vetev v GitHub, musel jsem dat v localu git pull(asi by sel i git fe
 pak stacilo dat git checkout nazev_vetve_v_remote a mel jsem ji lokalne hezky namirenou na tu remote pro push
 
 jak to, ze při git branch -r vidim stale vetev prvniVetev, kterou uz jsem ale v remote smazal??
+
+ještě zkusim jednou rovnou commit bez git add aby to otevřelo nodepad
