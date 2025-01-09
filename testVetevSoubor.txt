@@ -1,2 +1,4 @@
 udelal jsem vetev v GitHub, musel jsem dat v localu git pull(asi by sel i git fetch) a pak uz to videlo pres git branch -r v remote i tu novou vetev
 pak stacilo dat git checkout nazev_vetve_v_remote a mel jsem ji lokalne hezky namirenou na tu remote pro push
+
+jak to, ze při git branch -r vidim stale vetev prvniVetev, kterou uz jsem ale v remote smazal??
